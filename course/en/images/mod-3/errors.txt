@@ -1,0 +1,7 @@
+[2021-1-13 16:46:17] layer "box2.png": Duplicate path: box2.png
+[2021-1-13 16:46:17] layer "box2.png": Duplicate path: box2.png
+[2021-1-13 16:46:17] layer "box2.png": Duplicate path: box2.png
+[2021-1-13 16:46:17] layer "box2.png": Duplicate path: box2.png
+[2021-1-13 16:46:17] layer "box2.png": Duplicate path: box2.png
+[2021-1-13 16:46:17] layer "box2.png": Duplicate path: box2.png
+[2021-1-13 16:46:17] layer "Image1.png": Duplicate path: Image1.png
