@@ -1,0 +1,1 @@
+[2021-1-24 16:17:29] layer "box2.png": Duplicate path: box2.png

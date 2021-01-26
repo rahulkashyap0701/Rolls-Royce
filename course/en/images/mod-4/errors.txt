@@ -1,14 +1,13 @@
-[2021-1-13 12:51:21] layer "box2.png": Duplicate path: box2.png
-[2021-1-13 12:51:21] layer "box2.png": Duplicate path: box2.png
-[2021-1-13 12:51:21] layer "box2.png": Duplicate path: box2.png
-[2021-1-13 12:51:21] layer "your comfort level; level of noise exposure; NRR of the device,": Expected end of input but "," found.
-[2021-1-13 12:51:21] layer "box2.png": Duplicate path: box2.png
-[2021-1-13 12:51:21] layer "box2.png": Duplicate path: box2.png
-[2021-1-13 12:51:21] layer "box2.png": Duplicate path: box2.png
-[2021-1-13 12:51:21] layer "box2.png": Duplicate path: box2.png
-[2021-1-13 12:51:21] layer "box2.png": Duplicate path: box2.png
-[2021-1-13 12:51:21] layer "box2.png": Duplicate path: box2.png
-[2021-1-13 12:51:21] layer "011_big2.png copy": Expected end of input but "c" found.
-[2021-1-13 12:51:21] layer "box2.png": Duplicate path: box2.png
-[2021-1-13 12:51:21] layer "box2.png": Duplicate path: box2.png
-[2021-1-13 12:51:21] layer "Image1.png": Duplicate path: Image1.png
+[2021-1-24 16:09:49] layer "box2.png": Duplicate path: box2.png
+[2021-1-24 16:09:49] layer "box2.png": Duplicate path: box2.png
+[2021-1-24 16:09:49] layer "your comfort level; level of noise exposure; NRR of the device,": Expected end of input but "," found.
+[2021-1-24 16:09:49] layer "box2.png": Duplicate path: box2.png
+[2021-1-24 16:09:49] layer "box2.png": Duplicate path: box2.png
+[2021-1-24 16:09:49] layer "box2.png": Duplicate path: box2.png
+[2021-1-24 16:09:49] layer "box2.png": Duplicate path: box2.png
+[2021-1-24 16:09:49] layer "box2.png": Duplicate path: box2.png
+[2021-1-24 16:09:49] layer "box2.png": Duplicate path: box2.png
+[2021-1-24 16:10:15] layer "011_big2.png copy": Expected end of input but "c" found.
+[2021-1-24 16:09:49] layer "box2.png": Duplicate path: box2.png
+[2021-1-24 16:09:49] layer "box2.png": Duplicate path: box2.png
+[2021-1-24 16:09:49] layer "Image1.png": Duplicate path: Image1.png
